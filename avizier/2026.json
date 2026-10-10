@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T18:49:46.310Z",
+  "actualizat": "2026-10-10T20:02:53.378Z",
   "sedinte": [
     {
       "nr": 1,
@@ -77,6 +77,112 @@
         }
       ],
       "semnataLa": "2026-10-10T18:49:41.708Z"
+    },
+    {
+      "nr": 2,
+      "data": "2026-10-10",
+      "ora": "23:00",
+      "ordineZi": [
+        "fsdfsdf (sesizarea nr. 10/2026)",
+        "hei hei",
+        "xx"
+      ],
+      "pv": {
+        "participanti": [
+          "presedinte"
+        ],
+        "cvorum": {
+          "membri": 1,
+          "prezenti": 1,
+          "necesar": 1,
+          "intrunit": true
+        },
+        "semnatari": [
+          "presedinte",
+          "cenzor"
+        ],
+        "puncte": [
+          {
+            "titlu": "fsdfsdf (sesizarea nr. 10/2026) Vreo doi împotrivă. Deci de un termen de soluționare până la sfârșitul lunii",
+            "discutii": "",
+            "decizii": [
+              {
+                "text": "Am stabilit că responsabil va fi tot asociația are un termen patru zile Pot patru pentru unul împotrivă pot patru pentru",
+                "pentru": 4,
+                "impotriva": 0,
+                "abtineri": 0,
+                "responsabil": "",
+                "termen": "2027-09-30"
+              }
+            ]
+          },
+          {
+            "titlu": "hei hei Soacră. Afară Ade soacra. Consemnam. Consemnăm.",
+            "discutii": "",
+            "decizii": [
+              {
+                "text": "Abțineri.",
+                "pentru": 4,
+                "impotriva": 2,
+                "abtineri": 1,
+                "responsabil": "",
+                "termen": ""
+              },
+              {
+                "text": "Consemnăm. 3.",
+                "pentru": 0,
+                "impotriva": 2,
+                "abtineri": 0,
+                "responsabil": "r07",
+                "termen": ""
+              }
+            ]
+          },
+          {
+            "titlu": "xx",
+            "discutii": "Facem bine.",
+            "decizii": [
+              {
+                "text": "Ar trebui să scriem ceva aici",
+                "pentru": 7,
+                "impotriva": 0,
+                "abtineri": 0,
+                "responsabil": "r06",
+                "termen": ""
+              }
+            ]
+          }
+        ],
+        "observatii": "",
+        "nr": 2,
+        "redactatDe": "presedinte",
+        "modificatDe": "presedinte",
+        "modificatLa": "2026-10-10T20:01:14.200Z"
+      },
+      "semnaturi": [
+        {
+          "u": "presedinte",
+          "cheie": "Tx91SxM9lvbSGxnuGtcNXg",
+          "cod": "8C76-2312-525D-13AF",
+          "la": "2026-10-10T20:01:30.729Z",
+          "hash": "WRTtopcX9ni-tmaWDJZ1b7Qw19_Ck-zzdp2qjLX70O0",
+          "authenticatorData": "hieuViPoezzQZeoeH-RgQx9UIk8gHU1OGyJJhDkwSXAdAAAAAA",
+          "clientDataJSON": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiV1JUdG9wY1g5bmktdG1hV0RKWjFiN1F3MTlfQ2stenpkcDJxakxYNzBPMCIsIm9yaWdpbiI6Imh0dHBzOi8vYWR5c2FiYTg0LmdpdGh1Yi5pbyIsImNyb3NzT3JpZ2luIjpmYWxzZX0",
+          "signature": "MEQCIGjnBDSAdSwzD0fasRxjZigmxwuxS_u0Rl-AQGfK8nkcAiBU_JkrvWh9hnd25ioB4fwsbaaAlHRM1r0xYKtIT7PCmw"
+        },
+        {
+          "u": "cenzor",
+          "cheie": "Gc5DFI1TVZGXAinEu3tEOw",
+          "cod": "C9AC-FC88-773F-1156",
+          "la": "2026-10-10T20:02:11.428Z",
+          "hash": "WRTtopcX9ni-tmaWDJZ1b7Qw19_Ck-zzdp2qjLX70O0",
+          "authenticatorData": "hieuViPoezzQZeoeH-RgQx9UIk8gHU1OGyJJhDkwSXAdAAAAAA",
+          "clientDataJSON": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiV1JUdG9wY1g5bmktdG1hV0RKWjFiN1F3MTlfQ2stenpkcDJxakxYNzBPMCIsIm9yaWdpbiI6Imh0dHBzOi8vYWR5c2FiYTg0LmdpdGh1Yi5pbyIsImNyb3NzT3JpZ2luIjpmYWxzZX0",
+          "signature": "MEUCIE9d-CCVy8_FxcB_lHVk95GuMQK8AicGTx0G482FojkLAiEAkGXnY_fDCc6H5vIewbdU72XGR5SovOXxAr2YCfZ_XMY"
+        }
+      ],
+      "semnataLa": "2026-10-10T20:02:12.361Z",
+      "inchisaLa": "2026-10-10T20:02:48.455Z"
     }
   ]
 }
