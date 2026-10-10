@@ -1,0 +1,82 @@
+{
+  "an": 2026,
+  "actualizat": "2026-10-10T18:49:46.310Z",
+  "sedinte": [
+    {
+      "nr": 1,
+      "data": "2026-10-10",
+      "ora": "22:00",
+      "ordineZi": [
+        "discutam ce putem si noi"
+      ],
+      "pv": {
+        "participanti": [
+          "presedinte",
+          "cenzor"
+        ],
+        "cvorum": {
+          "membri": 1,
+          "prezenti": 1,
+          "necesar": 1,
+          "intrunit": true
+        },
+        "semnatari": [
+          "presedinte",
+          "cenzor"
+        ],
+        "puncte": [
+          {
+            "titlu": "discutam ce putem si noi",
+            "discutii": "Că.\nCă.\nCă vom.\nCă vom.\nCă vom discuta.\nCă vom discuta.\nCă vom discuta.\nCă vom discuta subiectul.\nCă vom discuta subiectul bla.\nCă vom discuta subiectul bla bla.\nAm început prima ședință.\nCă vom discuta subiectul bla bla.\nCă.\nCă totul.\nCă totul este.\nCă totul este în regulă.",
+            "decizii": [
+              {
+                "text": "Decizia.",
+                "pentru": 1,
+                "impotriva": 1,
+                "abtineri": 1,
+                "responsabil": "",
+                "termen": ""
+              },
+              {
+                "text": "Se respinge punctul bla bla.",
+                "pentru": 2,
+                "impotriva": 0,
+                "abtineri": 0,
+                "responsabil": "",
+                "termen": ""
+              }
+            ]
+          }
+        ],
+        "observatii": "",
+        "nr": 1,
+        "redactatDe": "presedinte",
+        "modificatDe": "presedinte",
+        "modificatLa": "2026-10-10T18:48:42.816Z"
+      },
+      "semnaturi": [
+        {
+          "u": "presedinte",
+          "cheie": "Tx91SxM9lvbSGxnuGtcNXg",
+          "cod": "8C76-2312-525D-13AF",
+          "la": "2026-10-10T18:49:01.280Z",
+          "hash": "D-jwML0u8iyuVh4RpXbfP03g1dDTOjdWDAADg9A3xqA",
+          "authenticatorData": "hieuViPoezzQZeoeH-RgQx9UIk8gHU1OGyJJhDkwSXAdAAAAAA",
+          "clientDataJSON": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiRC1qd01MMHU4aXl1Vmg0UnBYYmZQMDNnMWREVE9qZFdEQUFEZzlBM3hxQSIsIm9yaWdpbiI6Imh0dHBzOi8vYWR5c2FiYTg0LmdpdGh1Yi5pbyIsImNyb3NzT3JpZ2luIjpmYWxzZX0",
+          "signature": "MEYCIQCCyHnDb5K_NLMHFbEVj1Fek8pUdsW6pxRj3Jd5ihrB2AIhALyd2RXUVU74e7XWa9XxUadrurhtFR-3bcB2FPiD8EuX"
+        },
+        {
+          "u": "cenzor",
+          "cheie": "Gc5DFI1TVZGXAinEu3tEOw",
+          "cod": "C9AC-FC88-773F-1156",
+          "la": "2026-10-10T18:49:40.907Z",
+          "hash": "D-jwML0u8iyuVh4RpXbfP03g1dDTOjdWDAADg9A3xqA",
+          "authenticatorData": "hieuViPoezzQZeoeH-RgQx9UIk8gHU1OGyJJhDkwSXAdAAAAAA",
+          "clientDataJSON": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiRC1qd01MMHU4aXl1Vmg0UnBYYmZQMDNnMWREVE9qZFdEQUFEZzlBM3hxQSIsIm9yaWdpbiI6Imh0dHBzOi8vYWR5c2FiYTg0LmdpdGh1Yi5pbyIsImNyb3NzT3JpZ2luIjpmYWxzZX0",
+          "signature": "MEYCIQCVaIt3jEcpq7srdAlWyFBmIah02bptz-N7eJy4XgRApgIhAPfiymLWaDZICaE9lIBNjTayELFCoiTICCF11AavDS83"
+        }
+      ],
+      "semnataLa": "2026-10-10T18:49:41.708Z"
+    }
+  ]
+}
