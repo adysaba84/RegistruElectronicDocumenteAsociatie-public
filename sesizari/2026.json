@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T15:48:34.938Z",
+  "actualizat": "2026-10-10T15:52:17.981Z",
   "sesizari": [
     {
       "nr": 1,
@@ -96,6 +96,29 @@
           "la": "2026-10-10T15:48:30.846Z",
           "u": "autor",
           "actiune": "Înregistrată cu nr. 5 (canal: Aplicație)"
+        }
+      ]
+    },
+    {
+      "nr": 6,
+      "data": "2026-10-10",
+      "categorie": "sesizare",
+      "domeniu": "lift",
+      "problema": "Blocat",
+      "solutie": "",
+      "cost": "",
+      "maOcup": "nu",
+      "canal": "aplicatie",
+      "responsabil": "presedinte",
+      "stare": "repartizata",
+      "termen": "2026-10-20",
+      "listaLunara": true,
+      "raspuns": null,
+      "istoric": [
+        {
+          "la": "2026-10-10T15:52:13.258Z",
+          "u": "autor",
+          "actiune": "Înregistrată cu nr. 6 (canal: Aplicație)"
         }
       ]
     }
