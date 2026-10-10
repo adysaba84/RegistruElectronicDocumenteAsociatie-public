@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T20:08:32.093Z",
+  "actualizat": "2026-10-10T20:32:29.937Z",
   "sesizari": [
     {
       "nr": 1,
@@ -66,7 +66,7 @@
       "responsabil": "r11",
       "stare": "repartizata",
       "termen": "2026-10-20",
-      "listaLunara": false,
+      "listaLunara": true,
       "raspuns": null,
       "istoric": [
         {
