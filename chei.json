@@ -11,6 +11,17 @@
       "dispozitiv": "pc",
       "inregistrataLa": "2026-10-10T18:23:05.444Z",
       "cod": "8C76-2312-525D-13AF"
+    },
+    {
+      "id": "Gc5DFI1TVZGXAinEu3tEOw",
+      "u": "cenzor",
+      "spki": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5WY4HJz8LLOzJvX11BXK5QbGp0-X0M0se95QFVrbDNxAgVcvUmXdYJ0WqPiGtLXLa2ctSe_l_K_EL1xpk08OdQ",
+      "alg": -7,
+      "rpId": "adysaba84.github.io",
+      "origin": "https://adysaba84.github.io",
+      "dispozitiv": "test",
+      "inregistrataLa": "2026-10-10T18:35:54.195Z",
+      "cod": "C9AC-FC88-773F-1156"
     }
   ]
 }
