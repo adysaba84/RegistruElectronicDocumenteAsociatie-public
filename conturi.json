@@ -174,12 +174,12 @@
       "u": "cenzor",
       "rol": "cenzor",
       "apartament": null,
-      "temporara": true,
+      "temporara": false,
       "cheie": {
-        "salt": "RomAH5rR2RHwKx0YsfW+1Q==",
-        "iv": "XJnNWGlaD4+rfoP+",
-        "iter": 100000,
-        "date": "Uj1t9AT6Hc9EeKctU4R02vls+c4HGJCdtvfUi0Bkn41kAXsBhQhp+1YTKCjYNu4ZcsECa05ySn+7MMW5pipPd6w+GsNJFrOnm55eB93ORUDWb31dbdtUVzXUmEzvgzF3x33vm+n6GcmylFJ+INUyGTUr9zeAp1tMxA=="
+        "salt": "AMAW6rOcOYBVBx4pF6BeSQ==",
+        "iv": "3EGqAnMc6oXEyVff",
+        "iter": 600000,
+        "date": "dBgqr5ZlO5PNbVy8OZhLEnZ7SjTurdHgtBN28DQXgFxQ9xh5LosY4ftpOjcoBP6NewnzJ1wdKLDC7sIEE801HGioxhVtC9X6nk/7gwkfDpDk5j3yw1Z/QAyWOaYOcnPk9y2VYboE8Ym9gEh4o1stKHgVG6hTKX4Egw=="
       }
     },
     {
