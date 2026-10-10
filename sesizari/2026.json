@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T15:31:14.162Z",
+  "actualizat": "2026-10-10T15:31:35.411Z",
   "sesizari": [
     {
       "nr": 1,
@@ -13,10 +13,18 @@
       "maOcup": "nu",
       "canal": "hartie",
       "responsabil": "r10",
-      "stare": "raspuns_propus",
+      "stare": "raspuns_trimis",
       "termen": "2026-10-20",
       "listaLunara": true,
-      "raspuns": null,
+      "raspuns": {
+        "nr": 2,
+        "an": 2026,
+        "data": "2026-10-10",
+        "text": "adadasd",
+        "semnatDe": "presedinte",
+        "semnatLa": "2026-10-10T15:31:30.185Z",
+        "amprenta": "2945b9457fd899c8769b9704cb59b5660dafd28bddced3001321ddfb45d2a78c"
+      },
       "istoric": [
         {
           "la": "2026-10-10T15:27:57.433Z",
@@ -37,6 +45,11 @@
           "la": "2026-10-10T15:31:09.122Z",
           "u": "presedinte",
           "actiune": "Răspuns redactat, trimis la semnat"
+        },
+        {
+          "la": "2026-10-10T15:31:30.185Z",
+          "u": "presedinte",
+          "actiune": "Răspuns semnat și înregistrat cu nr. 2/10.10.2026"
         }
       ]
     }
