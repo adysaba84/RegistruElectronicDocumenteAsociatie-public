@@ -4,7 +4,7 @@
     {
       "u": "presedinte",
       "rol": "presedinte",
-      "apartament": null,
+      "apartament": 1,
       "temporara": false,
       "cheie": {
         "salt": "R62/zTjcGsZP6asVNmp4ug==",
