@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T18:30:24.397Z",
+  "actualizat": "2026-10-10T19:32:17.849Z",
   "sesizari": [
     {
       "nr": 1,
@@ -187,6 +187,29 @@
           "la": "2026-10-10T18:30:19.811Z",
           "u": "presedinte",
           "actiune": "Răspuns semnat și înregistrat cu nr. 9/10.10.2026"
+        }
+      ]
+    },
+    {
+      "nr": 10,
+      "data": "2026-10-10",
+      "categorie": "sesizare",
+      "domeniu": "gaz",
+      "problema": "fsdfsdf",
+      "solutie": "",
+      "cost": "",
+      "maOcup": "nu",
+      "canal": "platforma",
+      "responsabil": "r04",
+      "stare": "repartizata",
+      "termen": "2026-10-20",
+      "listaLunara": true,
+      "raspuns": null,
+      "istoric": [
+        {
+          "la": "2026-10-10T19:32:13.874Z",
+          "u": "presedinte",
+          "actiune": "Înregistrată cu nr. 10 (canal: Platformă (formular))"
         }
       ]
     }
