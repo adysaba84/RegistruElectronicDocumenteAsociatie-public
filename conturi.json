@@ -1,0 +1,197 @@
+{
+  "versiune": 1,
+  "utilizatori": [
+    {
+      "u": "presedinte",
+      "rol": "presedinte",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "NwGdHDjS8JU7WW9xkgAUTw==",
+        "iv": "Dr6UliB/aWVh6xvp",
+        "iter": 100000,
+        "date": "Yagyeeadjh5QyHjQNQVchweRgx7msnzOP4SkEHJfXTg80ZDNSyP19tHokJHv4i9VjeZV2/vUjnngsCWLk7WDSqjgNmIDbbQm1bUwG3i+Kw7cm2qnQveYs0ztBixl4pFhqE1Z0ls+KXzW05yyTXu3IoC4g04klSgvog=="
+      }
+    },
+    {
+      "u": "resp01",
+      "rol": "r01",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "yLEhgp9AwU0LaV5OD3WU6g==",
+        "iv": "A10S/GDwQDIt4FTy",
+        "iter": 100000,
+        "date": "kuZ5ym/vKTBoewYAS45bOvwcM9mHsjxSAWvN9QganMEIYVgvylr0BML2QUOszmsmREjE8dnOhOeCVzVOkOFbKwj1t19SmScCbOrp1KfHze0h/zHj91l+YQk9kgJ5RCL//5/43ozwZPnmtvK5T8jJuK5ATVCDpAY+GA=="
+      }
+    },
+    {
+      "u": "resp02",
+      "rol": "r02",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "hKcnBIHgc5SHIWgYZFqEyg==",
+        "iv": "VWGidpsds0gcMltt",
+        "iter": 100000,
+        "date": "PC3KsGxvjUHhGo87rfzUk/5SnOf0E+5Dzel5v14VrCpXt3UfsajwVRHYicIi/Wf6kkecOLnUR2Mlv/VatK3Q1ps/4CKpTQxesWP0EBFaGQNFP+YBZXdjpvwjBlKS9tRj1D1mwahOL1tDnzax788duDR19FzEmGg9CA=="
+      }
+    },
+    {
+      "u": "resp03",
+      "rol": "r03",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "QbNLM+zauUDYwedVqxXOgg==",
+        "iv": "UiOgB606EXIz0I2U",
+        "iter": 100000,
+        "date": "2F0qb9fW/pk9f5ydQFTTjGAi1RIrVXvxkcNuBa0fZT/k4jPKaN26nIhG17NTintcuovtmtocrov53P2xxztI+zEyVSj8Xltn6HOmsiJ2Wflr8XUmNz74xBkx3h8p2Q8+R+whdGS0NDrDMPRRP9ZRFBsP5JXt5hIV5Q=="
+      }
+    },
+    {
+      "u": "resp04",
+      "rol": "r04",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "Z/2zUeE2s1AhDWXB953fQg==",
+        "iv": "lY2zEc1QxvIwJ3A1",
+        "iter": 100000,
+        "date": "r2Haiau3n8YuqhIGfV6SFa/yM2I0xAnc2GbL3YgQowDeJQOOUmGJ5nRgu065LMhgkEe1QwhWIUxmLGMNa4GC9DfIiH4jLe1vz0kgU+DiB9oW70q8KZ+iQ3e+w8E9zQxEZNI1cq4JasTmNXln9+LhRqJjT/ogIPToKg=="
+      }
+    },
+    {
+      "u": "resp05",
+      "rol": "r05",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "04pAKukyH2IzhKHLx/Bn6A==",
+        "iv": "d2Qxe50ItC9r7jOq",
+        "iter": 100000,
+        "date": "EwhGH42acbNdR6kUWgzi5ROgyts/rXmD7jhRxvJ3E/IeM+zn4G7BF9mng+wW92i6zjVp01Z1Q1MzI+CtL9VVZogVqnSojXfWkt7AczASc5MAroH9kRCFv0CXov9f6RyBivnO0PBZq0oaK+TIZE4YmBZuK1i7t9qO7A=="
+      }
+    },
+    {
+      "u": "resp06",
+      "rol": "r06",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "a7nQOA/FeeLxFPxGfm0HHA==",
+        "iv": "jLkQTGGO5lwRJ9Rl",
+        "iter": 100000,
+        "date": "vrrpnihz/qkSs6GqNRXk5wMUWl9z15NgpG2Ta2fGLXoLIIOiTDSN8u7BKUU0Ci3Am6UvzsYn+2YjF/xW4XzTVxwGXLcmYTvlXQsOiUkrUOfcFu5ac8W07/tvGoDYz+Qf6mwQ8CHQrXA1wrw+vDIixnI55k3Zd2Jzeg=="
+      }
+    },
+    {
+      "u": "resp07",
+      "rol": "r07",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "2nuC6EAQpbu9w/anSslsoQ==",
+        "iv": "TcFp+1eKQ1ypPNOh",
+        "iter": 100000,
+        "date": "XVCA6rLpENc3D/XLTcWpAx9KtgI3T6Lq1/Nh+Lje1ZCEej1P9m/eLBzqnj5BM6L8KXMKubVyN3jJ8p4ta+LlJF7jDOSa49ud3WV4pe+OOgow6TttbQ324BZCrkrT9ADRJUXD7hJwQrUOWOMCPprbH9DM5oql60G2xA=="
+      }
+    },
+    {
+      "u": "resp08",
+      "rol": "r08",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "QscEHOfx3gY0On2eTE/d/g==",
+        "iv": "TyNxFsk0+hbGlxXy",
+        "iter": 100000,
+        "date": "cusf7DC5xsYw2OVQBh3mUrPUStxFJQJY4zWUmYuxL1PPZ5ERyLrrz2VQEcBn9BqT1avEuEcCbrjpIiXbOrFte69pbwYUN9rjGZaReSrozQhmh4Uh3f2og5AfGBPdF0f3e6yeinRzAwVh5uXflU1PXOkRZyY/M10/Qg=="
+      }
+    },
+    {
+      "u": "resp09",
+      "rol": "r09",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "BJbiCnoanon/sJltyJTgCw==",
+        "iv": "CoXdx1+RmQ2wdVtJ",
+        "iter": 100000,
+        "date": "L29VPOFss5a08VdggSdOGTO048WckpRM7rvFYafZAhyyAf63tdVmtdHm+0bMNDataIJ6iYhJHxMghWD6P3s+hU3j9waKAfJo5PgYBrOpqlLFmsrmTOd+lKuutS/pnDg1f566N2c0hrxufOfyoNZhqzNhGbmGmCeLLw=="
+      }
+    },
+    {
+      "u": "resp10",
+      "rol": "r10",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "VSR/hRY/Y+76FpdHGzZqfw==",
+        "iv": "ILgV6CdR9jC3W/71",
+        "iter": 100000,
+        "date": "oEfShq3rcLtE367CBYbMXc2kJNhiNJ7nRDutgQwjzsIGFh4Xy8YjYV2qZ6JMYEDYTmoJ6Fz8rF7vEIri1BXiXxiZZgMAFY9vU83LJFdD2mzkJB2WYSqmfJb/n3b/rcr+1uiWmlanSs5UwKcIpHzPM6Y45DglBempjA=="
+      }
+    },
+    {
+      "u": "resp11",
+      "rol": "r11",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "U0Yj9uRi3XYdFFE2nfFOhA==",
+        "iv": "BbnaxoOlZUkX9xxL",
+        "iter": 100000,
+        "date": "1zjlSyZUQl0uPEIpJbJ+tw04VufbDKdH4SuA/6VyBa7dW9IVx2+DOLHnSdvSuG5IdQEkURnnMy4r4F5aLL1DtGcARThV0Aw4Fx6BpzZsP12y4/RDQ6qm4T9Xf6tm0FxyGsUFrbkn6l3sgV2SSQ26hz9nvBr73SXXBQ=="
+      }
+    },
+    {
+      "u": "resp12",
+      "rol": "r12",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "PxzwcdVVFtHCJ0TmnxAX+w==",
+        "iv": "wh5kHO7IwxK595iB",
+        "iter": 100000,
+        "date": "SdEf+KgMPp0+ljCN8m4WjfH1nnn9A0JKNfFUgdfzZyYaa1M7ln/Z2peoApGVbDwQKu5/GgWpXDvRIGc8Td6G7Us3g/nSoUYJ/1DjsEu8T0b1NUP2dnbjHP1fVNVjTap2gHtUyLTI9Yu5+CSTpqgWchCvBIy0KBlrbg=="
+      }
+    },
+    {
+      "u": "resp13",
+      "rol": "r13",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "OFeSrMjmpwW+NnLU39n1Gg==",
+        "iv": "pt7SkzZHIYe7hnA4",
+        "iter": 100000,
+        "date": "sszzLctUC7RkEFcE1AyUZR0A/3Y3IpbXhhYCjxdQru51rHQFTvhhqGeV7bBycZD/j88tky5u6R0hI4ow2jarWxFIQzhpYYXTe1XHgBBbJDPOZOVfTR/cmST7G+y18PenVAPsKL6qRCKUJz1aM313HCl1D7/PtL2RRg=="
+      }
+    },
+    {
+      "u": "cenzor",
+      "rol": "cenzor",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "rpU15JRRQgWc5YtG+tPrzg==",
+        "iv": "qa3RPZ4ETkN9ygqB",
+        "iter": 100000,
+        "date": "azA1fAa5Bi8xwySvrquUe9jPxiJtV7TU7z5g5vVDjvKXjs1IVUJ8vC+R5GoDMG6MDnMlyIxbT65HdoAMZLio+e516Ch1nEi7nYkoksV5Fozktf5KX3nj3vzpzxJDPCVnVCL4Mu9WhI6zWoD4ZWv8KsU5xfM9BxXODA=="
+      }
+    },
+    {
+      "u": "administrator",
+      "rol": "administrator",
+      "apartament": null,
+      "temporara": true,
+      "cheie": {
+        "salt": "BMqa6d8skNmDePJPF8XzlA==",
+        "iv": "VcmCkTK4nOm7b7JQ",
+        "iter": 100000,
+        "date": "rhULZGYPgDRd3D0WvRh++SuvWFjaDGsOny9ZvwjGVejdRx9YDAVM/GaSvW4mcXZByFlwuQxbC/dtOb7KRv34cPiMfnjHfQqFdmwow0EpzuBTxCnRApnJRZXIROIZX3h1W3vrFILltp9h2uJ3WKN5k+dUf/JnDaY4BA=="
+      }
+    }
+  ]
+}
