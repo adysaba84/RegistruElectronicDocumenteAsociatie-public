@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T18:26:38.292Z",
+  "actualizat": "2026-10-10T18:30:13.197Z",
   "sesizari": [
     {
       "nr": 1,
@@ -151,7 +151,7 @@
       "maOcup": "ajut",
       "canal": "aplicatie",
       "responsabil": "presedinte",
-      "stare": "repartizata",
+      "stare": "raspuns_propus",
       "termen": null,
       "listaLunara": true,
       "raspuns": null,
@@ -160,6 +160,11 @@
           "la": "2026-10-10T18:26:31.210Z",
           "u": "autor",
           "actiune": "Înregistrată cu nr. 8 (canal: Aplicație)"
+        },
+        {
+          "la": "2026-10-10T18:30:08.079Z",
+          "u": "presedinte",
+          "actiune": "Răspuns redactat, trimis la semnat"
         }
       ]
     }
