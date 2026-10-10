@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T19:32:17.849Z",
+  "actualizat": "2026-10-10T20:08:32.093Z",
   "sesizari": [
     {
       "nr": 1,
@@ -210,6 +210,29 @@
           "la": "2026-10-10T19:32:13.874Z",
           "u": "presedinte",
           "actiune": "Înregistrată cu nr. 10 (canal: Platformă (formular))"
+        }
+      ]
+    },
+    {
+      "nr": 11,
+      "data": "2026-10-10",
+      "categorie": "sesizare",
+      "domeniu": "restante",
+      "problema": "sdasd",
+      "solutie": "asdad",
+      "cost": "23",
+      "maOcup": "da",
+      "canal": "aplicatie",
+      "responsabil": "r13",
+      "stare": "repartizata",
+      "termen": "2026-10-20",
+      "listaLunara": false,
+      "raspuns": null,
+      "istoric": [
+        {
+          "la": "2026-10-10T20:08:27.917Z",
+          "u": "autor",
+          "actiune": "Înregistrată cu nr. 11 (canal: Aplicație)"
         }
       ]
     }
