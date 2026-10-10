@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T15:52:17.981Z",
+  "actualizat": "2026-10-10T18:20:45.209Z",
   "sesizari": [
     {
       "nr": 1,
@@ -110,7 +110,7 @@
       "maOcup": "nu",
       "canal": "aplicatie",
       "responsabil": "presedinte",
-      "stare": "repartizata",
+      "stare": "in_lucru",
       "termen": "2026-10-20",
       "listaLunara": true,
       "raspuns": null,
