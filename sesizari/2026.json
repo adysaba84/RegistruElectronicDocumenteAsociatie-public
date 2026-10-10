@@ -1,0 +1,29 @@
+{
+  "an": 2026,
+  "actualizat": "2026-10-10T15:28:01.939Z",
+  "sesizari": [
+    {
+      "nr": 1,
+      "data": "2026-10-10",
+      "categorie": "sesizare",
+      "domeniu": "fatade",
+      "problema": "dsad",
+      "solutie": "das",
+      "cost": "21",
+      "maOcup": "nu",
+      "canal": "hartie",
+      "responsabil": "r12",
+      "stare": "repartizata",
+      "termen": "2026-10-20",
+      "listaLunara": false,
+      "raspuns": null,
+      "istoric": [
+        {
+          "la": "2026-10-10T15:27:57.433Z",
+          "u": "presedinte",
+          "actiune": "Înregistrată cu nr. 1 (canal: Hârtie)"
+        }
+      ]
+    }
+  ]
+}
