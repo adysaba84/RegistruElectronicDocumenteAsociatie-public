@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T15:30:23.105Z",
+  "actualizat": "2026-10-10T15:31:14.162Z",
   "sesizari": [
     {
       "nr": 1,
@@ -13,7 +13,7 @@
       "maOcup": "nu",
       "canal": "hartie",
       "responsabil": "r10",
-      "stare": "repartizata",
+      "stare": "raspuns_propus",
       "termen": "2026-10-20",
       "listaLunara": true,
       "raspuns": null,
@@ -32,6 +32,11 @@
           "la": "2026-10-10T15:30:07.197Z",
           "u": "presedinte",
           "actiune": "Repartizată către Resp. convocări și corespondență"
+        },
+        {
+          "la": "2026-10-10T15:31:09.122Z",
+          "u": "presedinte",
+          "actiune": "Răspuns redactat, trimis la semnat"
         }
       ]
     }
