@@ -210,12 +210,12 @@
       "u": "ap02",
       "rol": "proprietar",
       "apartament": 2,
-      "temporara": true,
+      "temporara": false,
       "cheie": {
-        "salt": "VVpDgR3L3xJLlA3k8hG5Kw==",
-        "iv": "gaWUugwJ8l5vwd2G",
-        "iter": 100000,
-        "date": "QDs9YXY/rZipFPoOBwmJDoIQyDBy3ZszWPMsPMKJb7S3OlqzbN/bF2w6KiNNKswcm5P/HVo2Wx+7bbME8fM3E8/2ONLzE470uwM/aanLoJPNrbe5zj33j71bDlhcjgrZewk8XJXDORLOGgl7vvMsU52bjAY95yjD1Q=="
+        "salt": "pUKGpZAyKnw2d6YgiNVf6w==",
+        "iv": "EunK0/YuSOOl6QnL",
+        "iter": 600000,
+        "date": "sjW/r302ey01eczZHeCQv406iJVKUh9vzGQCn6NegV1iYlohYDSLylKJ8JTu7eo6Hhfp5H9RJdrBp0W48Gn5XVttYT47oLFNut3R8Z++QBy5AqR7kJIiF5gq43mA63H8Hh6eKXV5qgxYPE9FNTP/y/J062oStg18Ew=="
       }
     },
     {
