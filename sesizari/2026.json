@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T18:21:03.725Z",
+  "actualizat": "2026-10-10T18:21:11.789Z",
   "sesizari": [
     {
       "nr": 1,
@@ -110,10 +110,18 @@
       "maOcup": "nu",
       "canal": "aplicatie",
       "responsabil": "presedinte",
-      "stare": "raspuns_propus",
+      "stare": "raspuns_trimis",
       "termen": "2026-10-20",
       "listaLunara": true,
-      "raspuns": null,
+      "raspuns": {
+        "nr": 7,
+        "an": 2026,
+        "data": "2026-10-10",
+        "text": "bau bau",
+        "semnatDe": "presedinte",
+        "semnatLa": "2026-10-10T18:21:07.962Z",
+        "amprenta": "8da0cd9b30cd50f8ed8f1ab15b5856b4187a6b2ba86d401a6fcc7139869fa62e"
+      },
       "istoric": [
         {
           "la": "2026-10-10T15:52:13.258Z",
@@ -124,6 +132,11 @@
           "la": "2026-10-10T18:20:59.943Z",
           "u": "presedinte",
           "actiune": "Răspuns redactat, trimis la semnat"
+        },
+        {
+          "la": "2026-10-10T18:21:07.963Z",
+          "u": "presedinte",
+          "actiune": "Răspuns semnat și înregistrat cu nr. 7/10.10.2026"
         }
       ]
     }
