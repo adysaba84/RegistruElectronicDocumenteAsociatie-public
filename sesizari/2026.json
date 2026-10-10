@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T18:30:13.197Z",
+  "actualizat": "2026-10-10T18:30:24.397Z",
   "sesizari": [
     {
       "nr": 1,
@@ -151,10 +151,27 @@
       "maOcup": "ajut",
       "canal": "aplicatie",
       "responsabil": "presedinte",
-      "stare": "raspuns_propus",
+      "stare": "raspuns_trimis",
       "termen": null,
       "listaLunara": true,
-      "raspuns": null,
+      "raspuns": {
+        "nr": 9,
+        "an": 2026,
+        "data": "2026-10-10",
+        "text": "Refuzat ca blq bla nu putem face",
+        "semnatDe": "presedinte",
+        "semnatLa": "2026-10-10T18:30:17.279Z",
+        "webauthn": {
+          "u": "presedinte",
+          "cheie": "Tx91SxM9lvbSGxnuGtcNXg",
+          "cod": "8C76-2312-525D-13AF",
+          "la": "2026-10-10T18:30:19.244Z",
+          "hash": "MOh642Iyxgu_T-OByLcOS0LFzyDFuNNhN3fyxk4o6gA",
+          "authenticatorData": "hieuViPoezzQZeoeH-RgQx9UIk8gHU1OGyJJhDkwSXAdAAAAAA",
+          "clientDataJSON": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiTU9oNjQySXl4Z3VfVC1PQnlMY09TMExGenlERnVOTmhOM2Z5eGs0bzZnQSIsIm9yaWdpbiI6Imh0dHBzOi8vYWR5c2FiYTg0LmdpdGh1Yi5pbyIsImNyb3NzT3JpZ2luIjpmYWxzZX0",
+          "signature": "MEYCIQDDzcG_6YF4qLTqUVUBWOZOlrOARaBD1hLncZ80gE3kPQIhAJ5Qc9Xl6_AOMhuRfA5kwi2Cs-7NjWvwztkWtoEhqAxi"
+        }
+      },
       "istoric": [
         {
           "la": "2026-10-10T18:26:31.210Z",
@@ -165,6 +182,11 @@
           "la": "2026-10-10T18:30:08.079Z",
           "u": "presedinte",
           "actiune": "Răspuns redactat, trimis la semnat"
+        },
+        {
+          "la": "2026-10-10T18:30:19.811Z",
+          "u": "presedinte",
+          "actiune": "Răspuns semnat și înregistrat cu nr. 9/10.10.2026"
         }
       ]
     }
