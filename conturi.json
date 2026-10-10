@@ -5,12 +5,12 @@
       "u": "presedinte",
       "rol": "presedinte",
       "apartament": null,
-      "temporara": true,
+      "temporara": false,
       "cheie": {
-        "salt": "NwGdHDjS8JU7WW9xkgAUTw==",
-        "iv": "Dr6UliB/aWVh6xvp",
-        "iter": 100000,
-        "date": "Yagyeeadjh5QyHjQNQVchweRgx7msnzOP4SkEHJfXTg80ZDNSyP19tHokJHv4i9VjeZV2/vUjnngsCWLk7WDSqjgNmIDbbQm1bUwG3i+Kw7cm2qnQveYs0ztBixl4pFhqE1Z0ls+KXzW05yyTXu3IoC4g04klSgvog=="
+        "salt": "R62/zTjcGsZP6asVNmp4ug==",
+        "iv": "40NE+/eFaPthQOo2",
+        "iter": 600000,
+        "date": "/otdhSiOgoVphA+ZhAL28uFkNIkcHJJc0E7Fqd3ts4DP5I84d02//OgejxJer9sL5fBpewPm2GvPyiJ3NFssfCeQH1KMPXExnEFVsdqJEOHX7QhOC2eOCiqmdNq0bFVDPcXlozNCAvu2kFVWCG4Fj/zwErK35C/SoA=="
       }
     },
     {
