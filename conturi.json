@@ -28,7 +28,7 @@
     {
       "u": "resp02",
       "rol": "r02",
-      "apartament": null,
+      "apartament": 2,
       "temporara": true,
       "cheie": {
         "salt": "hKcnBIHgc5SHIWgYZFqEyg==",
