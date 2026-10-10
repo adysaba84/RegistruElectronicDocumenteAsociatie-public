@@ -197,12 +197,12 @@
       "u": "ap01",
       "rol": "proprietar",
       "apartament": 1,
-      "temporara": true,
+      "temporara": false,
       "cheie": {
-        "salt": "Kb6cpXx9DN+v4lL58IMPnQ==",
-        "iv": "kN+OBxq1ZDnTodPK",
-        "iter": 100000,
-        "date": "ER9IG7O7cijKK3GSWWiA3ZDmzBdDtDpBmKYDr9OmxvPLr5C3LnANIatMTvaTdPZr7ADPpBWw0Q14NkYU3yjRq0+WjXsrkK/r/1xRDp9gJeS6jaOkcPa2I8GaXlqU/kinZImn45YG9A6QeFFw2KBF3NAvgTiypDxy+A=="
+        "salt": "JjLErsEIe8Tgmz+Ql9p/fg==",
+        "iv": "5uCYbJO+4KqDSIKo",
+        "iter": 600000,
+        "date": "txbnxt4MEJgC28SWd8c8StJBnnRcMMF9bN/4OErEIhjYqVdESmklBcX0DaqfS6G44HZrp2qQCm8BBI6y7E3aDQxYAdZ5oD4O751WrGKwN5zxkiSFHT7Vqhsg7LJ0Bm50IZVn4Zb3A3zJ3/5gO9pjkMPdg6ZEPXpreA=="
       }
     },
     {
