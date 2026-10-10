@@ -1,0 +1,16 @@
+{
+  "versiune": 1,
+  "chei": [
+    {
+      "id": "Tx91SxM9lvbSGxnuGtcNXg",
+      "u": "presedinte",
+      "spki": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1ys10c7B6eNGanm7d2Ny_Gy626PdFl5rJdg0qB233aU1OCVm34LL9MsiaLFW9Nbm1EpZd2vGR_RhHd_G4bAKtQ",
+      "alg": -7,
+      "rpId": "adysaba84.github.io",
+      "origin": "https://adysaba84.github.io",
+      "dispozitiv": "pc",
+      "inregistrataLa": "2026-10-10T18:23:05.444Z",
+      "cod": "8C76-2312-525D-13AF"
+    }
+  ]
+}
