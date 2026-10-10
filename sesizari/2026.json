@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T15:28:01.939Z",
+  "actualizat": "2026-10-10T15:28:15.963Z",
   "sesizari": [
     {
       "nr": 1,
@@ -13,7 +13,7 @@
       "maOcup": "nu",
       "canal": "hartie",
       "responsabil": "r12",
-      "stare": "repartizata",
+      "stare": "in_lucru",
       "termen": "2026-10-20",
       "listaLunara": false,
       "raspuns": null,
@@ -22,6 +22,11 @@
           "la": "2026-10-10T15:27:57.433Z",
           "u": "presedinte",
           "actiune": "Înregistrată cu nr. 1 (canal: Hârtie)"
+        },
+        {
+          "la": "2026-10-10T15:28:11.220Z",
+          "u": "presedinte",
+          "actiune": "Preluată în lucru"
         }
       ]
     }
