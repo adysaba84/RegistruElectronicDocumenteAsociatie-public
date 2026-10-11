@@ -22,6 +22,17 @@
       "dispozitiv": "test",
       "inregistrataLa": "2026-10-10T18:35:54.195Z",
       "cod": "C9AC-FC88-773F-1156"
+    },
+    {
+      "id": "qkdH4f375BVMPPQZYWHYSQ",
+      "u": "ap01",
+      "spki": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELj9sHvRLHZbrS7TRPRy_cd1bOd-SHEKdyErtwgToGy9WDFJ3INUgxre1cbBOhJGmE67UkXKzLUvaXsXICcFQdA",
+      "alg": -7,
+      "rpId": "adysaba84.github.io",
+      "origin": "https://adysaba84.github.io",
+      "dispozitiv": "xx",
+      "inregistrataLa": "2026-10-11T10:49:38.630Z",
+      "cod": "C415-766A-14CF-AC69"
     }
   ]
 }
