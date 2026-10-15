@@ -1,6 +1,6 @@
 {
   "an": 2026,
-  "actualizat": "2026-10-10T20:32:29.937Z",
+  "actualizat": "2026-10-15T10:08:26.573Z",
   "sesizari": [
     {
       "nr": 1,
@@ -224,7 +224,7 @@
       "maOcup": "da",
       "canal": "aplicatie",
       "responsabil": "r13",
-      "stare": "repartizata",
+      "stare": "in_lucru",
       "termen": "2026-10-20",
       "listaLunara": false,
       "raspuns": null,
@@ -233,6 +233,11 @@
           "la": "2026-10-10T20:08:27.917Z",
           "u": "autor",
           "actiune": "Înregistrată cu nr. 11 (canal: Aplicație)"
+        },
+        {
+          "la": "2026-10-15T10:08:22.045Z",
+          "u": "presedinte",
+          "actiune": "Preluată în lucru"
         }
       ]
     }
